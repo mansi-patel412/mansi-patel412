@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Passionate Information Technology student with a growing expertise in Python, Artificial Intelligence, Machine Learning, and Backend Development.<br><br>🔹 Building AI-powered and data-driven applications  <br>🔹 Exploring Generative AI, LLMs, LangChain, and RAG architectures  <br>🔹 Developing web applications using Flask and MySQL  <br>🔹 Enthusiastic about solving real-world problems through technology  <br>🔹 Continuously learning and adapting to emerging technologies<br><br>I believe in learning by building and enjoy turning complex ideas into practical, user-focused solutions.
 
 
