@@ -1,4 +1,5 @@
-# 💫 About Me<br><br>Passionate Information Technology student with a growing expertise in Python, Artificial Intelligence, Machine Learning, and Backend Development.<br><br>🔹 Building AI-powered and data-driven applications  <br>🔹 Exploring Generative AI, LLMs, LangChain, and RAG architectures  <br>🔹 Developing web applications using Flask and MySQL  <br>🔹 Enthusiastic about solving real-world problems through technology  <br>🔹 Continuously learning and adapting to emerging technologies<br><br>I believe in learning by building and enjoy turning complex ideas into practical, user-focused solutions.
+# 💫 About Me:
+Passionate Information Technology student with a growing expertise in Python, Artificial Intelligence, Machine Learning, and Backend Development.<br><br>🔹 Building AI-powered and data-driven applications  <br>🔹 Exploring Generative AI, LLMs, LangChain, and RAG architectures  <br>🔹 Developing web applications using Flask and MySQL  <br>🔹 Enthusiastic about solving real-world problems through technology  <br>🔹 Continuously learning and adapting to emerging technologies<br><br>I believe in learning by building and enjoy turning complex ideas into practical, user-focused solutions.
 
 
 ## 🌐 Socials:
@@ -10,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=mansi-patel412&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mansi-patel412&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansi-patel412&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mansi-patel412&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=mansi-patel412&icon=0&color=0)](https://visitcount.itsvg.in)
